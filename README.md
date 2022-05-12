@@ -1,4 +1,4 @@
-# Laboratorio Nº3 - GNU toolchain & Linux software
+# GNU toolchain & Linux software
 
 Para comenzar, se debe clonar el repositorio. Una vez hecho, podemos compilar todo el proyecto aprovechando el archivo `makefile`, con el comando:
 
